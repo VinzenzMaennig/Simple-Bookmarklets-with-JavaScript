@@ -16,7 +16,7 @@ Now you can open the bookmark simply by typing your keyword into the adress bar!
 # Bookmarks with a parameter
 But some sometimes a static bookmark only gets you so far. What if you want to open Google Maps, but directly jump to your searched location? You can create a bookmark with a parameter so you jump right where you want to go!
 
-![](images/basic%20bookmark.png)
+![](images/bookmark%20with%20param.png)
 
 Notice the "%s" in the URL? That is the placeholder for your taget. Now you can type:
 
