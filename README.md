@@ -34,7 +34,7 @@ The URL is now a small javascript program. You can now request navigation with a
 
 This will open a navigation from the Time Square to the White House by car in Google Maps.
 ## Bookmark and bookmarklet list
-In this list bookmarks and bookmarklets I use are stored. Just copy the code into the URL field of the bookmark and choose a keyword of your liking, and you are ready to go! Below the URL/Code the usage is described. Remember to omit the quotation marks!
+In this list bookmarks and bookmarklets I use are stored. Just copy the code into the URL field of the bookmark and choose a keyword of your liking, and you are ready to go! Below the URL/Code the usage is described. Remember to omit the quotation marks! You may also download the *bookmarks.html* file and import all my current macros at once.
 
 ### Youtube
 `https://www.youtube.com/results?search_query=%s`
